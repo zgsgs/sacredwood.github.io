@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://sacredwood.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>神木&amp;世界</title>
+    <link>https://sacredwood.github.io/</link>
+    <description>致力于打造一体化开发全流程站点</description>
+    <language>zh-CN</language>
+    <pubDate>Sun, 28 Feb 2021 09:02:26 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2021 09:02:26 GMT</lastBuildDate>
+    <generator>@mr-hope/vuepress-plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <copyright>Copyright by Jason</copyright>
+    <category>Vue</category>
+    <item>
+      <title>Home</title>
+      <link>https://sacredwood.github.io/</link>
+      <guid>https://sacredwood.github.io/</guid>
+      <source url="https://sacredwood.github.io/rss.xml">Home</source>
+    </item>
+    <item>
+      <title>个人介绍</title>
+      <link>https://sacredwood.github.io/about/author/</link>
+      <guid>https://sacredwood.github.io/about/author/</guid>
+      <source url="https://sacredwood.github.io/rss.xml">个人介绍</source>
+      <content:encoded><![CDATA[<h1 id="个人介绍"> 个人介绍</h1>
+<p>此处是我的个人介绍</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>https://sacredwood.github.io/vue/</link>
+      <guid>https://sacredwood.github.io/vue/</guid>
+      <source url="https://sacredwood.github.io/rss.xml">Home</source>
+    </item>
+    <item>
+      <title>教程</title>
+      <link>https://sacredwood.github.io/vue/guide/</link>
+      <guid>https://sacredwood.github.io/vue/guide/</guid>
+      <source url="https://sacredwood.github.io/rss.xml">教程</source>
+      <content:encoded><![CDATA[<h1 id="教程"> 教程</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>实例</title>
+      <link>https://sacredwood.github.io/vue/guide/Instance/</link>
+      <guid>https://sacredwood.github.io/vue/guide/Instance/</guid>
+      <source url="https://sacredwood.github.io/rss.xml">实例</source>
+      <content:encoded><![CDATA[<h1 id="实例"> 实例</h1>
+<div><p>提示</p>
+<p>这是一个提示</p>
+</div>
+<div><p>警告</p>
+<p>这是一个警告</p>
+</div>
+<div><p>警告</p>
+<p>这是一个危险警告</p>
+</div>
+<details><summary>DETAILS</summary>
+<p>这是一个详情块，在 IE / Edge 中不生效</p>
+</details>
+<h2 id="幻灯片演示"> 幻灯片演示</h2>
+<i>Not supported content</i><h2 id="代码演示-普通代码"> 代码演示 普通代码</h2>
+
+          <div
+            id="code-demo-c6e51570"
+           
+  
+ data-title="%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%20Demo"
+
+            data-code="%7B%22md%22%3A%22%3Cspan%20class%3D%5C%22token%20title%20important%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%23%3C%2Fspan%3E%20%E6%A0%87%E9%A2%98%3C%2Fspan%3E%5Cn%5Cn%E5%8D%81%E5%88%86%E5%B8%85%5Cn%22%2C%22ts%22%3A%22%3Cspan%20class%3D%5C%22token%20keyword%5C%22%3Econst%3C%2Fspan%3E%20message%3Cspan%20class%3D%5C%22token%20operator%5C%22%3E%3A%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20builtin%5C%22%3Estring%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20operator%5C%22%3E%3D%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20string%5C%22%3E%5C%22Mr.Hope%5C%22%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%5Cndocument%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E.%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20function%5C%22%3EquerySelector%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20string%5C%22%3E%5C%22h1%5C%22%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E)%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E.%3C%2Fspan%3EinnerHTML%20%3Cspan%20class%3D%5C%22token%20operator%5C%22%3E%3D%3C%2Fspan%3E%20message%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%22%2C%22scss%22%3A%22%3Cspan%20class%3D%5C%22token%20selector%5C%22%3Eh1%20%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7B%3C%2Fspan%3E%5Cn%20%20%3Cspan%20class%3D%5C%22token%20property%5C%22%3Efont-style%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3A%3C%2Fspan%3E%20italic%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%5Cn%20%20%3Cspan%20class%3D%5C%22token%20selector%5C%22%3E%2B%20p%20%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7B%3C%2Fspan%3E%5Cn%20%20%20%20%3Cspan%20class%3D%5C%22token%20property%5C%22%3Ecolor%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3A%3C%2Fspan%3E%20red%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%20%20%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7D%3C%2Fspan%3E%5Cn%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7D%3C%2Fspan%3E%5Cn%22%7D"
+          >
+              <div>
+                
+              </div>
+              <div>
+                <div>
+<div><pre><code><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token title important<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>#<span><span><span>&lt;/</span>span</span><span>></span></span> 标题<span><span><span>&lt;/</span>span</span><span>></span></span>
+
+十分帅
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><pre><code><span>&lt;</span>span <span>class</span><span>=</span><span>"token keyword"</span><span>></span><span>const</span><span>&lt;</span><span>/</span>span<span>></span> message<span>&lt;</span>span <span>class</span><span>=</span><span>"token operator"</span><span>></span><span>:</span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token builtin"</span><span>></span><span>string</span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token operator"</span><span>>=</span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token string"</span><span>></span><span>"Mr.Hope"</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>;</span><span>&lt;</span><span>/</span>span<span>></span>
+
+document<span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>.</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token function"</span><span>></span>querySelector<span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token string"</span><span>></span><span>"h1"</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>.</span><span>&lt;</span><span>/</span>span<span>></span>innerHTML <span>&lt;</span>span <span>class</span><span>=</span><span>"token operator"</span><span>>=</span><span>&lt;</span><span>/</span>span<span>></span> message<span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>;</span><span>&lt;</span><span>/</span>span<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><pre><code><span>&lt;span>h1 &lt;/span>&lt;span></span><span>{</span>&lt;/span>
+  &lt;span class=<span>"token property"</span>>font-style&lt;/span>&lt;span class=<span>"token punctuation"</span>><span>:</span>&lt;/span> italic&lt;span class=<span>"token punctuation"</span>><span>;</span><span>&lt;/span>
+
+  &lt;span>+ p &lt;/span>&lt;span></span><span>{</span>&lt;/span>
+    &lt;span class=<span>"token property"</span>>color&lt;/span>&lt;span class=<span>"token punctuation"</span>><span>:</span>&lt;/span> red&lt;span class=<span>"token punctuation"</span>><span>;</span>&lt;/span>
+  &lt;span class=<span>"token punctuation"</span>><span>}</span>&lt;/span>
+&lt;span class=<span>"token punctuation"</span>><span>}</span>&lt;/span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div>
+            </div>
+          </div>
+          
+        </div>
+<h2 id="代码演示-普通-demo2"> 代码演示 普通 Demo2</h2>
+
+          <div
+            id="code-demo-85695568"
+           
+  
+ data-title="%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%20Demo"
+
+            data-code="%7B%22html%22%3A%22%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%3C%2Fspan%3Eh1%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3EMr.Hope%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%2F%3C%2Fspan%3Eh1%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%5Cn%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%3C%2Fspan%3Ep%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%3C%2Fspan%3Espan%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20attr-name%5C%22%3Eid%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20attr-value%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%20attr-equals%5C%22%3E%3D%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%5C%22%3C%2Fspan%3Every%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%5C%22%3C%2Fspan%3E%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%E5%8D%81%E5%88%86%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%2F%3C%2Fspan%3Espan%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%20%E5%B8%85%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%2F%3C%2Fspan%3Ep%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%5Cn%22%2C%22js%22%3A%22document%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E.%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20function%5C%22%3EquerySelector%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20string%5C%22%3E%5C%22%23very%5C%22%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E)%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E.%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20function%5C%22%3EaddEventListener%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20string%5C%22%3E%5C%22click%5C%22%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%2C%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E)%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20operator%5C%22%3E%3D%3E%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7B%3C%2Fspan%3E%5Cn%20%20%3Cspan%20class%3D%5C%22token%20function%5C%22%3Ealert%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20string%5C%22%3E%5C%22%E5%8D%81%E5%88%86%E5%B8%85%5C%22%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E)%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7D%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E)%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%22%2C%22css%22%3A%22%3Cspan%20class%3D%5C%22token%20selector%5C%22%3Espan%3C%2Fspan%3E%5Cn%20%20%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7B%3C%2Fspan%3E%5Cn%20%20%3Cspan%20class%3D%5C%22token%20property%5C%22%3Ecolor%3C%2Fspan%3E%5Cn%20%20%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3A%3C%2Fspan%3E%5Cn%20%20red%5Cn%20%20%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7D%3C%2Fspan%3E%5Cn%22%7D"
+          >
+              <div>
+                
+              </div>
+              <div>
+                <div>
+<div><pre><code><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;<span><span><span>&lt;/</span>span</span><span>></span></span>h1<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>Mr.Hope<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;/<span><span><span>&lt;/</span>span</span><span>></span></span>h1<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>
+<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;<span><span><span>&lt;/</span>span</span><span>></span></span>p<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;<span><span><span>&lt;/</span>span</span><span>></span></span>span<span><span><span>&lt;/</span>span</span><span>></span></span> <span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token attr-name<span>"</span></span><span>></span></span>id<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token attr-value<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation attr-equals<span>"</span></span><span>></span></span>=<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>"<span><span><span>&lt;/</span>span</span><span>></span></span>very<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>"<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>十分<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;/<span><span><span>&lt;/</span>span</span><span>></span></span>span<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span> 帅<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;/<span><span><span>&lt;/</span>span</span><span>></span></span>p<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><div><pre><code>document<span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>.</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token function"</span><span>></span>querySelector<span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token string"</span><span>></span><span>"#very"</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>.</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token function"</span><span>></span>addEventListener<span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token string"</span><span>></span><span>"click"</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>,</span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token operator"</span><span>>=</span><span>></span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>{</span><span>&lt;</span><span>/</span>span<span>></span>
+  <span>&lt;</span>span <span>class</span><span>=</span><span>"token function"</span><span>></span>alert<span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token string"</span><span>></span><span>"十分帅"</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>;</span><span>&lt;</span><span>/</span>span<span>></span>
+<span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>}</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>;</span><span>&lt;</span><span>/</span>span<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><pre><code><span>&lt;span>span&lt;/span>
+  &lt;span></span><span>{</span>&lt;/span>
+  &lt;span class=<span>"token property"</span>>color&lt;/span>
+  &lt;span class=<span>"token punctuation"</span>><span>:</span>&lt;/span>
+  red
+  &lt;span class=<span>"token punctuation"</span>><span>;</span>&lt;/span>
+&lt;span class=<span>"token punctuation"</span>><span>}</span>&lt;/span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div>
+            </div>
+          </div>
+          
+        </div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装</title>
+      <link>https://sacredwood.github.io/vue/guide/installation/</link>
+      <guid>https://sacredwood.github.io/vue/guide/installation/</guid>
+      <source url="https://sacredwood.github.io/rss.xml">安装</source>
+      <category>Vue</category>
+      <content:encoded><![CDATA[<h1 id="安装"> 安装</h1>
+<p><img src="https://img.shields.io/npm/v/vuepress-theme-hope.svg?style=flat-square&amp;logo=npm" alt="Version">
+<img src="https://img.shields.io/npm/dm/vuepress-theme-hope.svg?style=flat-square&amp;logo=npm" alt="Downloads">
+<img src="https://img.shields.io/bundlephobia/min/vuepress-theme-hope?style=flat-square&amp;logo=npm" alt="Size">
+<img src="https://img.shields.io/librariesio/release/npm/vuepress-theme-hope?style=flat-square" alt="Dependencies"></p>
+<h2 id="开发工具"> 开发工具</h2>
+<p>工欲善其事必先利其器.上手的开发工具是我们刨析源码的利刃.我们需要熟练使用开发工具,对代码进行运行调试,逐步刨析代码的运行步骤,底层逻辑,当前状态等等.</p>
+<h3 id="chrome"> Chrome</h3>
+<p>浏览器是前端最核心的开发工具之一,其中的 <code>Chrome</code> 更是其中的佼佼者.不论是对各种 <code>HTML\CSS\JavaScript</code> 新属性的积极支持,还是 V8 引擎的开拓性影响都有着举足轻重的地位.可以说占据市场份额的半壁江山,也是实至名归的.</p>
+<p>我日常开发的大部分页面布局样式\代码逻辑都是在<code>Chrome</code>上调试的,占据了我开发工具的几乎 50%的时间.这上面有着非常丰富的工具集,完全可以单独出一套教程进行深度学习.这里我推荐大家看一看老外写的官方文档.</p>
+<p><a href="https://developers.google.com/web/tools/chrome-devtools" target="_blank" rel="noopener noreferrer">Chrome DevTools</a></p>
+<h3 id="vs-code"> VS Code</h3>
+<div><pre><code><span>// .vuepress/config.js</span>
+module<span>.</span>exports <span>=</span> <span>{</span>
+  themeConfig<span>:</span> <span>{</span>
+    copyCode<span>:</span> <span>{</span><span>}</span><span>,</span>
+  <span>}</span><span>,</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>浏览器是前端最核心的开发工具之一,其中的 <code>Chrome</code> 更是其中的佼佼者.不论是对各种 <code>HTML\CSS\JavaScript</code> 新属性的积极支持,还是 V8 引擎的开拓性影响都有着举足轻重的地位.可以说占据市场份额的半壁江山,也是实至名归的.</p>
+<p>我日常开发的大部分页面布局样式\代码逻辑都是在<code>Chrome</code>上调试的,占据了我开发工具的几乎 50%的时间.这上面有着非常丰富的工具集,完全可以单独出一套教程进行深度学习.这里我推荐大家看一看老外写的官方文档.</p>
+<p><a href="https://developers.google.com/web/tools/chrome-devtools" target="_blank" rel="noopener noreferrer">Chrome DevTools</a></p>
+<h3 id="codepen"> Codepen</h3>
+<p><a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">Codepen</a>可以很方便的创建代码演示并嵌入。</p>
+<p>输入:</p>
+<div><pre><code><span><span><span>&lt;</span>iframe</span>
+  <span>height</span><span><span>=</span><span>"</span>265<span>"</span></span>
+  <span><span>style</span><span><span>=</span><span>"</span><span><span>width</span><span>:</span> 100%<span>;</span></span><span>"</span></span></span>
+  <span>scrolling</span><span><span>=</span><span>"</span>no<span>"</span></span>
+  <span>title</span><span><span>=</span><span>"</span>五彩斑斓旋转的球形光影<span>"</span></span>
+  <span>src</span><span><span>=</span><span>"</span>https://codepen.io/SacredWood/embed/preview/rNWaEwQ?height=265&amp;theme-id=dark&amp;default-tab=css,result<span>"</span></span>
+  <span>frameborder</span><span><span>=</span><span>"</span>no<span>"</span></span>
+  <span>loading</span><span><span>=</span><span>"</span>lazy<span>"</span></span>
+  <span>allowtransparency</span><span><span>=</span><span>"</span>true<span>"</span></span>
+  <span>allowfullscreen</span><span><span>=</span><span>"</span>true<span>"</span></span>
+<span>></span></span>
+  See the Pen <span><span><span>&lt;</span>a</span> <span>href</span><span><span>=</span><span>"</span>https://codepen.io/SacredWood/pen/rNWaEwQ<span>"</span></span><span>></span></span>五彩斑斓旋转的球形光影<span><span><span>&lt;/</span>a</span><span>></span></span> by Sacred Wood (<span><span><span>&lt;</span>a</span>
+    <span>href</span><span><span>=</span><span>"</span>https://codepen.io/SacredWood<span>"</span></span>
+    <span>></span></span>@SacredWood<span><span><span>&lt;/</span>a</span>
+  <span>></span></span>) on <span><span><span>&lt;</span>a</span> <span>href</span><span><span>=</span><span>"</span>https://codepen.io<span>"</span></span><span>></span></span>CodePen<span><span><span>&lt;/</span>a</span><span>></span></span>.
+<span><span><span>&lt;/</span>iframe</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><p>输出:</p>
+<iframe height="265" style="width: 100%;" scrolling="no" title="五彩斑斓旋转的球形光影" src="https://codepen.io/SacredWood/embed/preview/rNWaEwQ?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/SacredWood/pen/rNWaEwQ'>五彩斑斓旋转的球形光影</a> by Sacred Wood
+  (<a href='https://codepen.io/SacredWood'>@SacredWood</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+<h3 id="markmap"> Markmap</h3>
+<p>Markmap 是一个将 Markdown 转换为思维导图的工具。它相对于主题内置的 flowchart 支持更多的格式与内容。</p>
+<ol>
+<li>使用 <code>Markmap</code> 生成思维导图 html 文件</li>
+<li>将 html 文件放在 <code>.vuepress/public/</code> 下</li>
+<li>通过 <code>&lt;iframe&gt;</code> 插入到 Markdown</li>
+</ol>
+<p>输入:</p>
+<div><pre><code><span><span><span>&lt;</span>iframe</span>
+  <span>:src</span><span><span>=</span><span>"</span>$withBase(<span>'</span>/markmap/markmap.html<span>'</span>)<span>"</span></span>
+  <span>width</span><span><span>=</span><span>"</span>100%<span>"</span></span>
+  <span>height</span><span><span>=</span><span>"</span>400<span>"</span></span>
+  <span>frameborder</span><span><span>=</span><span>"</span>0<span>"</span></span>
+  <span>scrolling</span><span><span>=</span><span>"</span>No<span>"</span></span>
+  <span>leftmargin</span><span><span>=</span><span>"</span>0<span>"</span></span>
+  <span>topmargin</span><span><span>=</span><span>"</span>0<span>"</span></span>
+<span>/></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>输出:</p>
+<iframe
+  :src="$withBase('/markmap/markmap.html')"
+  width="100%"
+  height="400"
+  frameborder="0"
+  scrolling="No"
+  leftmargin="0"
+  topmargin="0"
+/>
+<h3 id="内置流程图"> 内置流程图</h3>
+<p><a href="https://flowchart.vuepress.ulivz.com/" target="_blank" rel="noopener noreferrer">vuepress-plugin-flowchart</a>可以让你在 Markdown 中直接绘制流程图，就像这样</p>
+<p>输入</p>
+<div><pre><code>@flowstart
+cond=&gt;condition: Process?
+process=&gt;operation: Process
+e=&gt;end: End
+
+cond(yes)-&gt;process-&gt;e
+cond(no)-&gt;e
+@flowend
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>输出</p>
+<i>Not supported content</i><p><img src="https://vuepress-theme-hope.github.io/logo.png" alt="logo"></p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/npm/v/vuepress-theme-hope.svg?style=flat-square&logo=npm" type="image/"/>
+    </item>
+    <item>
+      <title>介绍</title>
+      <link>https://sacredwood.github.io/vue/guide/introduction/</link>
+      <guid>https://sacredwood.github.io/vue/guide/introduction/</guid>
+      <source url="https://sacredwood.github.io/rss.xml">介绍</source>
+      <content:encoded><![CDATA[<h1 id="介绍"> 介绍</h1>
+<p>简单介绍一下 Vue 源码解析项目</p>
+<h2 id="默认支持的流程图"> 默认支持的流程图</h2>
+<i>Not supported content</i><h2 id="代码演示"> 代码演示</h2>
+
+          <div
+            id="code-demo-635b4e19"
+           
+  
+ data-title="%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%20Demo"
+
+            data-code="%7B%22html%22%3A%22%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%3C%2Fspan%3Eh1%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3EMr.Hope%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%2F%3C%2Fspan%3Eh1%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%5Cn%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%3C%2Fspan%3Ep%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%3C%2Fspan%3Espan%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20attr-name%5C%22%3Eid%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20attr-value%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%20attr-equals%5C%22%3E%3D%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%5C%22%3C%2Fspan%3Every%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%5C%22%3C%2Fspan%3E%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%E5%8D%81%E5%88%86%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%2F%3C%2Fspan%3Espan%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%20%E5%B8%85%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20tag%5C%22%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3C%2F%3C%2Fspan%3Ep%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3E%3C%2Fspan%3E%3C%2Fspan%3E%5Cn%22%2C%22js%22%3A%22document%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E.%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20function%5C%22%3EquerySelector%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20string%5C%22%3E%5C%22%23very%5C%22%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E)%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E.%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20function%5C%22%3EaddEventListener%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20string%5C%22%3E%5C%22click%5C%22%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%2C%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E)%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20operator%5C%22%3E%3D%3E%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7B%3C%2Fspan%3E%5Cn%20%20%3Cspan%20class%3D%5C%22token%20function%5C%22%3Ealert%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20string%5C%22%3E%5C%22%E5%8D%81%E5%88%86%E5%B8%85%5C%22%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E)%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7D%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E)%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%22%2C%22css%22%3A%22%3Cspan%20class%3D%5C%22token%20selector%5C%22%3Espan%3C%2Fspan%3E%20%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7B%3C%2Fspan%3E%5Cn%20%20%3Cspan%20class%3D%5C%22token%20property%5C%22%3Ecolor%3C%2Fspan%3E%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3A%3C%2Fspan%3E%20red%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%3B%3C%2Fspan%3E%5Cn%3Cspan%20class%3D%5C%22token%20punctuation%5C%22%3E%7D%3C%2Fspan%3E%5Cn%22%7D"
+          >
+              <div>
+                
+              </div>
+              <div>
+                <div>
+<div><pre><code><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;<span><span><span>&lt;/</span>span</span><span>></span></span>h1<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>Mr.Hope<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;/<span><span><span>&lt;/</span>span</span><span>></span></span>h1<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>
+<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;<span><span><span>&lt;/</span>span</span><span>></span></span>p<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;<span><span><span>&lt;/</span>span</span><span>></span></span>span<span><span><span>&lt;/</span>span</span><span>></span></span> <span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token attr-name<span>"</span></span><span>></span></span>id<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token attr-value<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation attr-equals<span>"</span></span><span>></span></span>=<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>"<span><span><span>&lt;/</span>span</span><span>></span></span>very<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>"<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>十分<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;/<span><span><span>&lt;/</span>span</span><span>></span></span>span<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span> 帅<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;/<span><span><span>&lt;/</span>span</span><span>></span></span>p<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><div><pre><code>document<span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>.</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token function"</span><span>></span>querySelector<span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token string"</span><span>></span><span>"#very"</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>.</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token function"</span><span>></span>addEventListener<span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token string"</span><span>></span><span>"click"</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>,</span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token operator"</span><span>>=</span><span>></span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>{</span><span>&lt;</span><span>/</span>span<span>></span>
+  <span>&lt;</span>span <span>class</span><span>=</span><span>"token function"</span><span>></span>alert<span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token string"</span><span>></span><span>"十分帅"</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>;</span><span>&lt;</span><span>/</span>span<span>></span>
+<span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>}</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>;</span><span>&lt;</span><span>/</span>span<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><pre><code><span>&lt;span>span&lt;/span> &lt;span></span><span>{</span>&lt;/span>
+  &lt;span class=<span>"token property"</span>>color&lt;/span>&lt;span class=<span>"token punctuation"</span>><span>:</span>&lt;/span> red&lt;span class=<span>"token punctuation"</span>><span>;</span>&lt;/span>
+&lt;span class=<span>"token punctuation"</span>><span>}</span>&lt;/span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div>
+            </div>
+          </div>
+          
+        </div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>工具集推荐</title>
+      <link>https://sacredwood.github.io/vue/tools/</link>
+      <guid>https://sacredwood.github.io/vue/tools/</guid>
+      <source url="https://sacredwood.github.io/rss.xml">工具集推荐</source>
+      <content:encoded><![CDATA[<h1 id="工具集推荐"> 工具集推荐</h1>
+<h2 id="开发工具"> 开发工具</h2>
+<ol>
+<li>VS Code</li>
+<li>Git</li>
+<li>Github/Gitlab</li>
+<li>NPM/Yarn</li>
+<li>Webpack</li>
+<li>Chrome</li>
+</ol>
+<h2 id="插件推荐"> 插件推荐</h2>
+<ol>
+<li>Vue.js devtools</li>
+<li></li>
+</ol>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
